@@ -1,5 +1,6 @@
 # Nifti_Viewer
-GUI software for the visualization and basic modification of three-dimensional medical Nifti images.
+GUI software for the visualization and basic modification of three-dimensional medical Nifti images. Software made in C++ with Qt and VTK. GUI made in Qt Creator.
+Author: Cezary Bujak
 
 **GUI**:
 ![program_widok](https://user-images.githubusercontent.com/75490317/123271580-47219980-d501-11eb-88e6-388f5c4ccd88.PNG)
